@@ -1,0 +1,8 @@
+data_type: CLN_MTB_MET
+discovery_dir_name: Training
+omics_list:
+- CLNData_CG.pkl
+- MTBData_CG.pkl
+- METData_CG.pkl
+omics_parent_dir: ./data/main_data/cg/
+validation_dir_name: Validation

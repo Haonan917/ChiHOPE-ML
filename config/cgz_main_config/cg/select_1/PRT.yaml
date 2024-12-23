@@ -1,0 +1,6 @@
+data_type: PRT
+discovery_dir_name: Training
+omics_list:
+- PRTData_CG.pkl
+omics_parent_dir: ./data/main_data/cg/
+validation_dir_name: Validation

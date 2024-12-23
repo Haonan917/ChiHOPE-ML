@@ -1,0 +1,5 @@
+data_type,algo,seed,train.val,auc
+MIR,svc,6,0,0.6424545454545455
+MIR,xgb,6,0,0.568
+MIR,lr,6,0,0.6445454545454545
+MIR,avg,6,0,0.6373636363636364

@@ -1,0 +1,5 @@
+data_type,algo,seed,train.val,auc
+MTB,svc,2,0,0.7650909090909092
+MTB,xgb,2,0,0.7495
+MTB,lr,2,0,0.7645454545454544
+MTB,avg,2,0,0.7754545454545454

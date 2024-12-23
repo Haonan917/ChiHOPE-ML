@@ -1,0 +1,5 @@
+data_type,algo,seed,train.val,auc
+PRT,svc,8,0,0.6725909090909091
+PRT,xgb,8,0,0.5685
+PRT,lr,8,0,0.6545454545454545
+PRT,avg,8,0,0.6528181818181819

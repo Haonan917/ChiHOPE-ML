@@ -1,0 +1,5 @@
+data_type,algo,seed,train.val,auc
+MET,svc,5,0,0.5519090909090908
+MET,xgb,5,0,0.5524545454545454
+MET,lr,5,0,0.5
+MET,avg,5,0,0.5626363636363637

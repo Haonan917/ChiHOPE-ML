@@ -1,0 +1,5 @@
+data_type,algo,seed,train.val,auc
+CLN,svc,9,0,0.7516363636363637
+CLN,xgb,9,0,0.7485909090909091
+CLN,lr,9,0,0.75
+CLN,avg,9,0,0.7611818181818183

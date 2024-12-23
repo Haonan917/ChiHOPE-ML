@@ -1,0 +1,5 @@
+data_type,algo,seed,train.val,auc
+CLN_MIR,svc,8,0,0.7446363636363637
+CLN_MIR,xgb,8,0,0.7389090909090908
+CLN_MIR,lr,8,0,0.7258181818181818
+CLN_MIR,avg,8,0,0.75
